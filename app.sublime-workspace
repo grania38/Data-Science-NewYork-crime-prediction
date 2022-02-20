@@ -1,0 +1,305 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"park_name_QUEENS"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"mode",
+				"model_state"
+			],
+			[
+				"mo",
+				"model_state"
+			],
+			[
+				"nlt",
+				"nltk_utils"
+			],
+			[
+				"out",
+				"output_size"
+			],
+			[
+				"N",
+				"NeuralNet"
+			],
+			[
+				"Data",
+				"DataLoader"
+			],
+			[
+				"t",
+				"tokenized_sentence"
+			],
+			[
+				"toke",
+				"tokenized_sentence"
+			],
+			[
+				"x",
+				"x_train"
+			],
+			[
+				"patt",
+				"pattern_sentence"
+			],
+			[
+				"tokenized",
+				"tokenized_str"
+			],
+			[
+				"tok",
+				"tokenized_str"
+			],
+			[
+				"id",
+				"id_"
+			],
+			[
+				"re",
+				"read"
+			],
+			[
+				"la",
+				"labels_ids"
+			],
+			[
+				"labe",
+				"labels_ids"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"backgroun",
+				"background-color\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"h",
+				"h3\tTag"
+			],
+			[
+				"fi",
+				"figcaption\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 133.0,
+		"history":
+		[
+			"pip3 install nltk",
+			"python -m pip install nltk",
+			"import nltk",
+			"import selenium",
+			"pip3 install nltk",
+			"pip install nltk"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/LENOVO/Desktop/go-fullstack/crimes/saved_steps.pkl",
+		"/C/Users/LENOVO/Desktop/go-fullstack/crimes/NYCHA PSA (Police Service Areas).geojson",
+		"/C/Users/LENOVO/Desktop/go-fullstack/crimes/NYPD Sectors.geojson",
+		"/C/Users/LENOVO/Desktop/go-fullstack/crimes/Police Precincts.geojson",
+		"/C/Users/LENOVO/Desktop/go-fullstack/crimes/predict_page.py",
+		"/C/Users/LENOVO/Desktop/go-fullstack/crimes/app.py",
+		"/C/Users/LENOVO/Desktop/go-fullstack/crimes/NYPD_Complaint_Data_Historic_2019_clean.csv",
+		"/C/Users/LENOVO/Videos/projet tutoré/Yolov4 for rail signs and gates detection/.ipynb_checkpoints/Copie_de_YOLOv4_tiny_Darknet_Roboflow-checkpoint.ipynb",
+		"/C/Users/LENOVO/Videos/projet tutoré/Yolov4 for rail signs and gates detection/training_yolo_custom_object_detection_files-main/run.py",
+		"/C/Users/LENOVO/Videos/projet tutoré/Yolov4 for rail signs and gates detection/Copie_de_YOLOv4_tiny_Darknet_Roboflow.ipynb",
+		"/C/Users/LENOVO/blogApp/bin/www",
+		"/C/Users/LENOVO/blogApp/package.json",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/LENOVO/blogApp/app.js",
+		"/C/Users/LENOVO/Desktop/dev-folder/ChatBot/intent.json",
+		"/C/Users/LENOVO/Desktop/dev-folder/ChatBot/model.py",
+		"/C/Users/LENOVO/Desktop/dev-folder/ChatBot/chat.py",
+		"/C/Users/LENOVO/Desktop/dev-folder/ChatBot/train.py",
+		"/C/Users/LENOVO/Desktop/dev-folder/ChatBot/nltk_utils.py",
+		"/C/Users/LENOVO/Desktop/dev-folder/ChatBot/nltk_utilss.py",
+		"/C/Users/LENOVO/Downloads/web_styles.css",
+		"/C/Users/LENOVO/Downloads/web_index.html",
+		"/C/Users/LENOVO/Desktop/styles/theme.css",
+		"/C/Users/LENOVO/Desktop/pages/main.html",
+		"/C/Users/LENOVO/Downloads/index.html",
+		"/C/Users/LENOVO/Desktop/developpement web/formulaire.css",
+		"/C/Users/LENOVO/Desktop/developpement web/formulaire.html",
+		"/C/Users/LENOVO/Desktop/developpement web/test3.html",
+		"/C/Users/LENOVO/Desktop/developpement web/pres.css",
+		"/C/Users/LENOVO/Desktop/developpement web/csss",
+		"/C/Users/LENOVO/Desktop/developpement web/rania.html",
+		"/C/Users/LENOVO/Desktop/developpement web/ZORZOR.html",
+		"/C/Users/LENOVO/Desktop/developpement web/zorzorr.css",
+		"/C/Users/LENOVO/Desktop/developpement web/test2.html",
+		"/C/Users/LENOVO/Desktop/developpement web/Mon CV",
+		"/C/Users/LENOVO/Desktop/developpement web/newnew",
+		"/C/Users/LENOVO/Desktop/developpement web/test.html"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.2
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 51.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 186.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
