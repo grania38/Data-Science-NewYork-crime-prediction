@@ -15,3 +15,9 @@ This interface is the section that presents all charts that describe our cleaned
 ![269976679_382115040351359_7481065632652412970_n](https://user-images.githubusercontent.com/93519108/220284917-470cd19f-8a6e-4568-bdad-d905af65f6fd.png)
 
 This interface is the section that presents the prediction part, where the user enter some informations such as date, place to go (the place is selected using a map. When the user click on the place in the map, its coordinates will be shows and used for the prediction process) etc... .
+
+
+![269924287_2114498405369905_761091653140120605_n](https://user-images.githubusercontent.com/93519108/220285796-bff17741-ddf4-46bf-878d-894bca1cd8b7.png)
+
+![269975980_667498217963070_7081891251796601391_n](https://user-images.githubusercontent.com/93519108/220285828-7314af30-fc93-4b91-8775-16614648e8bb.png)
+
